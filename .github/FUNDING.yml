@@ -5,4 +5,4 @@ patreon: babel
 open_collective: babel
 ko_fi: babel
 tidelift: babel
-custom: javascript:alert(1)
+custom: <b>javascript:alert(1)</b>
